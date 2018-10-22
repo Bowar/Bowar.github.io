@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+	color: #800080;
+} 
+.one {
+	color: #4B0082;
+	font-weight: bold;
+}
+body {
+	border: 2px solid #000;
+	background-color: #E0FFFF;
+}
+ a {
+ 	background-color: #D3D3D3;
+ }
+.two {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.three {
+	text-decoration: line-through;
+}
+.four {
+	font-weight: bold;
+}
